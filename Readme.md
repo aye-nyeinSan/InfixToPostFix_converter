@@ -1,5 +1,6 @@
 ## Infix To Postfix Converter
-> Aye Nyein San ( Student_ID_652115502 )
+> Aye Nyein San ( Student_ID_652115502 )<br>
+### This is a java oop implementation of an infix-to-postfix converter using a linked list data structure.
 ___
 
 ### How To compile and run?
